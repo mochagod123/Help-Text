@@ -1,5 +1,6 @@
 ping .. BotのPingを図ります。
 help .. あなたが今見ているやつです。
+suddendeath .. 突然の死ｗｗ
 
 search ~
 google .. Googleで検索します。
@@ -30,11 +31,14 @@ riaju .. リア充を爆発させます。
 myqu .. ???
 gosenchoen .. 5000ちょう円ほしい！
 neko .. 猫の画像。
+dog .. 犬の画像。
 kemomimi .. けもみみの画像作成。
 food .. 食べ物を取得
 coffee .. コーヒーを取得。
 kanna .. カンナちゃんの画像を取得
 httpcat .. HTTPの猫の画像を取得。
 fox .. 狐の画像を取得。
-suddendeath .. 突然の死ｗｗ
 hikakin .. ヒカキン!?
+
+globals ~
+activate .. グローバルチャットに参加します。
