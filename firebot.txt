@@ -8,6 +8,7 @@ amazon .. アマゾンで検索します。
 fatal ~
 kick .. メンバーをKickします。
 ban .. メンバーをBanします。
+purge .. チャンネルをきれいにします。
 
 games ~
 uranai .. 占います。
