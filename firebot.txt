@@ -1,5 +1,7 @@
 ping .. BotのPingを図ります。
 help .. あなたが今見ているやつです。
+
+search ~
 google .. Googleで検索します。
 amazon .. アマゾンで検索します。
 
