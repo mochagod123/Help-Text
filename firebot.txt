@@ -42,3 +42,4 @@ hikakin .. ヒカキン!?
 
 globals ~
 activate .. グローバルチャットに参加します。
+deactivate .. グローバルチャットから退出します。
