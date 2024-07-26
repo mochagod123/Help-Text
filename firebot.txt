@@ -1,6 +1,7 @@
+```
 ping .. BotのPingを図ります。
 help .. あなたが今見ているやつです。
-suddendeath .. 突然の死ｗｗ
+```
 ```
 search
 google .. Googleで検索します。
