@@ -2,22 +2,25 @@ ping .. BotのPingを図ります。
 help .. あなたが今見ているやつです。
 suddendeath .. 突然の死ｗｗ
 
-search ~
+```search
 google .. Googleで検索します。
 amazon .. アマゾンで検索します。
+```
 
-fatal ~
+```fatal
 kick .. メンバーをKickします。
 ban .. メンバーをBanします。
 purge .. チャンネルをきれいにします。
 
-games ~
+```games
 uranai .. 占います。
+```
 
-mh ~
+```mh
 mhww .. モンハンワールドの武器検索
+```
 
-image ~
+```image
 hunter .. ハンターさんの画像を送ります。。(価値ない)
 mhavatar .. モンハンのアバターを作成します。
 shinchoku .. マインクラフトの進捗を作成します。
@@ -39,7 +42,9 @@ kanna .. カンナちゃんの画像を取得
 httpcat .. HTTPの猫の画像を取得。
 fox .. 狐の画像を取得。
 hikakin .. ヒカキン!?
+```
 
-globals ~
+```globals
 talkglobal .. 会話専用グローバルチャットに参加します。
 deactivate .. グローバルチャットから退出します。
+```
