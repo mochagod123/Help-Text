@@ -8,7 +8,7 @@ google .. Googleで検索します。
 amazon .. アマゾンで検索します。
 ```
 ```
-fatal
+fatals
 kick .. メンバーをKickします。
 ban .. メンバーをBanします。
 purge .. チャンネルをきれいにします。
