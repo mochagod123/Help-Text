@@ -12,6 +12,8 @@ fatals
 kick .. メンバーをKickします。
 ban .. メンバーをBanします。
 purge .. チャンネルをきれいにします。
+shuffle .. ニックネームをシャッフルします。
+nickreset .. ニックネームをリセットします。
 ```
 ```
 games
