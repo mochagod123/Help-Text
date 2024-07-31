@@ -22,5 +22,5 @@ chexport .. チャンネルをエクスポート。
 ```
 games
 uranai .. 占います。
-oxgame_view .. OXゲームの結果を見ます。(製作中)
+whn .. 数字あてゲームをします。
 ```
