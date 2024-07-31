@@ -14,6 +14,10 @@ ban .. メンバーをBanします。
 purge .. チャンネルをきれいにします。
 shuffle .. ニックネームをシャッフルします。
 nickreset .. ニックネームをリセットします。
+nickimport .. ニックネームインポート。
+nickexport .. ニックネームをエクスポート。
+chimport .. チャンネルをインポート。
+chexport .. チャンネルをエクスポート。
 ```
 ```
 games
