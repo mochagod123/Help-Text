@@ -1,16 +1,17 @@
 ```
+メインカテゴリ
 ping .. BotのPingを図ります。
 help .. あなたが今見ているやつです。
 ```
 ```
-search
+「search」のカテゴリ
 google .. Googleで検索します。
 amazon .. アマゾンで検索します。
 safeweb .. サイトを分析します。
 server .. サーバーを検索します。
 ```
 ```
-fatals
+「fatals」のカテゴリ
 kick .. メンバーをKickします。
 ban .. メンバーをBanします。
 purge .. チャンネルをきれいにします。
@@ -23,7 +24,7 @@ chimport .. チャンネルをインポート。
 chexport .. チャンネルをエクスポート。
 ```
 ```
-games
+「games」のカテゴリ
 uranai .. 占います。
 whn .. 数字あてゲームをします。
 invert .. 文字列を反転させます。
