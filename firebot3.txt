@@ -2,3 +2,8 @@
 mc
 give .. Giveコマンドを生成します。
 ```
+```
+tools
+webshot .. Webのスクリーンショットを取ります。
+afk .. AFKになります。
+```
