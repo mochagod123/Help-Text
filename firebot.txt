@@ -6,6 +6,8 @@ help .. あなたが今見ているやつです。
 search
 google .. Googleで検索します。
 amazon .. アマゾンで検索します。
+safeweb .. サイトを分析します。
+server .. サーバーを検索します。
 ```
 ```
 fatals
