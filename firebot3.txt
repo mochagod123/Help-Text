@@ -1,9 +1,9 @@
 ```
-mc
+「mc」のカテゴリ
 give .. Giveコマンドを生成します。
 ```
 ```
-tools
+「tools」のカテゴリ
 webshot .. Webのスクリーンショットを取ります。
 afk .. AFKになります。
 wcalc .. 電子レンジのwを変換します。(前のw, 何秒, 変換したいw)
