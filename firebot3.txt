@@ -11,3 +11,13 @@ wcalc .. 電子レンジのwを変換します。(前のw, 何秒, 変換した�
 shorturl .. 短縮URLを作成するよ。
 qrcode .. QRコードを作成するするよ
 ```
+```
+「admins」のカテゴリ (Botの管理者専用)
+server_list .. Botの滞在するサーバーを取得します。
+reload .. Botの拡張機能を再起動します。
+addload .. Botの拡張機能を追加します。
+gmute .. GMuteします。
+ungmute .. GMuteを解除します。
+gban .. GBanをするんです。
+ungban .. GBanを解除しちゃうよ
+```
