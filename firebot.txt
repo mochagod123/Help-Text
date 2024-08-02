@@ -8,7 +8,6 @@ help .. あなたが今見ているやつです。
 google .. Googleで検索します。
 amazon .. アマゾンで検索します。
 safeweb .. サイトを分析します。
-server .. サーバーを検索します。
 ggrks .. Google検索をGGRKSドメインに変換します。
 rafi .. とても危険なサイトを取得します。(自己責任で！)
 ```
