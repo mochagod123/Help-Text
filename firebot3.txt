@@ -20,4 +20,5 @@ gmute .. GMuteします。
 ungmute .. GMuteを解除します。
 gban .. GBanをするんです。
 ungban .. GBanを解除しちゃうよ
+pollgban .. GBanをするかどうか多数決を取るよ
 ```
