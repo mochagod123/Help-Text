@@ -8,4 +8,6 @@ webshot .. Webのスクリーンショットを取ります。
 afk .. AFKになります。
 wcalc .. 電子レンジのwを変換します。(前のw, 何秒, 変換したいw)
 2ch .. 2ch風に引用するよ
+shorturl .. 短縮URLを作成するよ。
+qrcode .. QRコードを作成するするよ
 ```
