@@ -1,6 +1,7 @@
 ```
 「mc」のカテゴリ
 give .. Giveコマンドを生成します。
+cbuild .. Minecraftのコマンドを生成します。
 ```
 ```
 「tools」のカテゴリ
