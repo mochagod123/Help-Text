@@ -1,5 +1,6 @@
 ```
 「mc」のカテゴリ
+gnnid .. NNIDを生成します。
 give .. Giveコマンドを生成します。
 cbuild .. Minecraftのコマンドを生成します。
 ```
