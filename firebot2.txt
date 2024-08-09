@@ -28,6 +28,7 @@ kanna .. カンナちゃんの画像を取得
 poke .. 突いているGIFを取得
 httpcat .. HTTPの猫の画像を取得。
 fox .. 狐の画像を取得。
+nounai .. 脳内メーカーを使います。
 hikakin .. ヒカキン!?
 ```
 ```
