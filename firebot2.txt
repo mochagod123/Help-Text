@@ -29,6 +29,9 @@ poke .. 突いているGIFを取得
 httpcat .. HTTPの猫の画像を取得。
 fox .. 狐の画像を取得。
 nounai .. 脳内メーカーを使います。
+isekai .. 異世界家系図メーカーです。
+kabuto .. 兜を生成します。
+smartphone .. スマホを生成します。
 hikakin .. ヒカキン!?
 ```
 ```
