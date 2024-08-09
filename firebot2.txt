@@ -32,6 +32,7 @@ nounai .. 脳内メーカーを使います。
 isekai .. 異世界家系図メーカーです。
 kabuto .. 兜を生成します。
 smartphone .. スマホを生成します。
+busho .. 00が武将だったら？
 hikakin .. ヒカキン!?
 ```
 ```
