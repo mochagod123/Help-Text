@@ -13,6 +13,7 @@ rafi .. とても危険なサイトを取得します。(自己責任で！)
 niconico .. NicoNico検索します。
 ulookup .. ユーザーを検索します。
 slookup .. サーバーを検索します。
+pypi .. PyPiで検索します。
 ```
 ```
 「fatals」のカテゴリ
