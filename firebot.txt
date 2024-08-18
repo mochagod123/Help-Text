@@ -14,6 +14,8 @@ niconico .. NicoNico検索します。
 ulookup .. ユーザーを検索します。
 slookup .. サーバーを検索します。
 pypi .. PyPiで検索します。
+mhnews .. モンハンニュースを取得します。
+pcnews .. PCのニュースを取得します。
 ```
 ```
 「fatals」のカテゴリ
